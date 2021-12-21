@@ -1,0 +1,17 @@
+.userPageCol {
+    background-color: #F8F8FC;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardUserList {
+    background-color: white;
+    height: 90%;
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2vh;
+}

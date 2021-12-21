@@ -1,0 +1,34 @@
+.homePageContainer {
+    background-image: url('../../assets/bck.png');
+    height: 100vh;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.homePageRow {
+    height: 100vh;
+}
+
+.homePageColCentral {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.homePageFormContainer {
+    background-color: white;
+    height: 70%;
+    width: 70% !important;
+    border-radius: 2vh;
+}
+
+
+.homePageRowForm {
+    height : 70%;
+    display : flex;
+    justify-content : center;
+    align-content : center;
+    padding: 10%;
+}

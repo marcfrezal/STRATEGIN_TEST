@@ -1,0 +1,15 @@
+.regFormContainer {
+    background-color: white;
+    height: 90%;
+    width: 70% !important;
+    border-radius: 2vh;
+}
+
+.regPageRowForm {
+    height : 60%;
+    display : flex;
+    justify-content : center;
+    align-content : center;
+    padding: 10%;
+    overflow: scroll;
+}
