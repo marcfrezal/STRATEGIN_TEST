@@ -9,6 +9,11 @@ To make the project works you have to follow these steps :
 
 In the backend directory, you can run :
 
+### `npm install`
+
+install all the dependencies.<br />
+
+
 ### `nodemon index.js`
 
 Launch the server.<br />
@@ -19,6 +24,10 @@ You will also see any lint errors in the console.
 ## FRONTEND
 
 In the frontend/strategin-app directory, you can run :
+
+### `npm install`
+
+install all the dependencies.<br />
 
 ### `npm start`
 
